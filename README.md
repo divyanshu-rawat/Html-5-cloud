@@ -7,11 +7,9 @@
 [![Divyanshu](https://img.shields.io/badge/divyanshu-owner-brightgreen.svg?style=flat)](http://www.divyanshurawat.in)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
 
-##
+Lightweight HTML5 apps and Git on SAP HANA Cloud Platform
 
-### Live Application
-
-[![Live Demo Here](https://img.shields.io/badge/website-up-orange.svg)](https://tempdemo1-p1941855306trial.dispatcher.hanatrial.ondemand.com/?hc_reset)
+Live Application Here - https://tempdemo1-p1941855306trial.dispatcher.hanatrial.ondemand.com/?hc_reset
 
 ##
 
